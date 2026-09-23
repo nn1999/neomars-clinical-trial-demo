@@ -1,2 +1,7 @@
-# neomars-clinical-trial-demo
-NeoMARS 临床试验患者端与研究医生端交互演示（虚构数据）
+# NeoMARS clinical trial demo
+
+北大肿瘤医院 · 范照青主任团队患者端与研究医生端交互演示。
+
+版本：v1.8。所有病例与问卷为模拟；不接入真实外呼、AI报告识别、EDC或随机系统。上传文件仅保存在访问者浏览器本地。
+
+入口：`v1.8/`。
