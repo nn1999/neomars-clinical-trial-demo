@@ -1,0 +1,8 @@
+#patient .task-text small,#patient .cx-taskHint,#patient .cx-askHint,#patient .expert-badge,#patient .cx-heroSub{display:none}
+#patient .task-text b,#patient .cx-taskTitle{font-size:18px;line-height:1.5}
+#patient .subtle,#patient .hint,#patient .row-label,#patient .message-time{font-size:14px;line-height:1.6}
+.grouped112>h2{font-size:21px;margin-bottom:16px}.grouped112 details{margin-top:18px}.grouped112 summary{font-size:16px;padding:14px 0;cursor:pointer}
+.chat-task112{padding:12px 16px;background:#fffaf5;border-top:1px solid #ead8cb}.choices112{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}.choices112 button{min-height:44px;flex:1 1 40%;font-size:16px}.date-answer112{display:grid;gap:8px;width:100%;font-size:16px}.date-answer112 input{font-size:18px;padding:10px;border:1px solid #ead8cb;border-radius:12px}
+.chat-page:has(.chat-task112){display:flex;flex-direction:column;height:100%}.chat-page:has(.chat-task112) .chat-stream{flex:1;min-height:140px;overflow:auto}.chat-page:has(.chat-task112) .chat-composer{position:static;flex-shrink:0}.chat-task112{flex-shrink:0;max-height:45%;overflow:auto}.reminder-item112{padding:12px 0;border-top:1px solid #e8ded5}.reminder-item112 p{font-size:16px;line-height:1.6}.doctor-hero .identity img{object-fit:contain}.cx-team{font-size:16px}
+
+#patient .essential112{display:block!important;font-size:15px;line-height:1.6;margin-top:4px}
